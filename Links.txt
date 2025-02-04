@@ -1,0 +1,11 @@
+https://www.tensorflow.org
+https://www.tensorflow.org/install
+https://www.tensorflow.org/tutorials/quickstart/beginner
+https://www.geeksforgeeks.org/introduction-to-tensorflow/
+https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-keras/2-data
+https://www.tensorflow.org/resources/learn-ml
+https://www.tensorflow.org/js/
+https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
+https://www.youtube.com/watch?v=tPYj3fFJGjk
+https://www.youtube.com/watch?v=6_2hzRopPbQ
+https://github.com/nicknochnack/Tensorflow-in-10-Minutes/blob/main/Tensorflow%20in%2010.ipynb
